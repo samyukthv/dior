@@ -1,0 +1,272 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 1100px;
+    
+}
+.navi{
+    
+    width: 100%;
+    height: 110px;
+    display: flex;
+
+}
+.leftnav{
+    width: 25%;
+    height: 100%;
+   
+    display: flex;
+
+}
+.midnav{
+    width: 50%;
+    height: 100%;
+   
+}
+.rightnav{
+    width: 25%;
+    height: 100%;
+   
+    
+
+}
+.leftright{
+    width: 50%;
+    height: 100%;
+   
+    font-family: "Century Gothic Std", arial, sans-serif;
+    font-size: 13px;
+    padding-top: 25px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.leftright:hover{
+    color: rgb(94, 91, 91);
+}
+
+
+.leftleft{
+    width: 50%;
+    height: 100%;
+    font-family: "Century Gothic Std", arial, sans-serif;
+    font-size: 13px;
+    padding-top: 12px;
+    margin-left: 30px;
+}
+.leftleft:hover{
+    color: rgb(94, 91, 91);
+
+}
+    
+.midnav img{
+    width: 80px;
+    
+    padding: 25px;
+    margin-left: 310px;
+
+}
+.rightnav img{
+    margin-top: 25px;
+    position: relative;
+    left: 320px;
+}
+.bodymain{
+    width: 100%;
+    height: 650px;
+    
+    display: flex;
+
+}
+.left{
+    width: 50%;
+    height: 100%;
+   
+    background-image: url('https://www.dior.com/couture/var/dior/storage/images/29895128/76-int-EN/cdc-dispatch16_1440_1200.jpg');
+    background-size:cover;
+
+
+}
+
+.right{
+    width: 50%;
+    height: 100%;
+    
+    background-image: url('https://www.dior.com/couture/var/dior/storage/images/29893601/122-int-EN/pcd-dispatch24_1440_1200.jpg');
+    background-size: cover;
+}
+.left h6{
+   font-family: "Century Gothic Std", arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 302px;
+    margin-left: 250px;
+}
+.left p{
+    font-family: "Century Gothic Std", arial, sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 335px;
+    margin-top: -43px;
+}
+.right h6{
+    font-family: "Century Gothic Std", arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 302px;
+    margin-left: 250px;
+
+}
+.right p{
+    font-family: "Century Gothic Std", arial, sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 335px;
+    margin-top: -43px;
+
+}
+.footer{
+    width: 100%;
+    height: 340px;
+   
+    display: flex;
+}
+.left1{
+    width: 25%;
+    
+    height: 100%;
+    padding-left: 25px;
+}
+
+
+.left2{
+    width: 25%;
+   
+    height: 100%;
+    padding-left: 25px;
+
+}
+.right1{
+    width: 25%;
+   
+    height: 100%;
+    padding-left: 25px;
+
+}
+.right2{
+    width: 25%;
+    
+    height: 100%;
+    padding-left: 25px;
+
+}
+.left1 li{
+    list-style: none;
+    font-family: "Century Gothic Std", arial, sans-serif;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: lighter;
+}
+.left1 h5{
+    font-family:"Century Gothic Std", arial, sans-serif ;
+    font-size: 12px;
+    FONT-WEIGHT: 800;
+}
+.left1 hr{
+    width: 95%;
+    margin-bottom: 50px;
+    
+}
+
+
+.left2 li{
+    list-style: none;
+    font-family: "Century Gothic Std", arial, sans-serif;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: lighter;
+
+}
+.left2 h5{
+    font-family:"Century Gothic Std", arial, sans-serif ;
+    font-size: 12px;
+    FONT-WEIGHT: 800;
+
+}
+.cnt{
+    display: flex;
+}
+.cnt img{
+    margin-left: 190px;
+}
+.fq{
+    display: flex;
+}
+.fq img{
+    margin-left: 211px;
+}
+.right1 h5{
+    font-family:"Century Gothic Std", arial, sans-serif ;
+    font-size: 12px;
+    FONT-WEIGHT: 800;
+
+}
+.right1 li{
+    list-style: none;
+    font-family: "Century Gothic Std", arial, sans-serif;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: lighter;
+
+}
+.legal{
+    display: flex;
+}
+.legal img{
+    margin-left: 211px;
+
+}
+.follow{
+    display:flex
+}
+.follow img{
+    margin-left: 227px;
+
+}
+.right2 h5{
+    font-family:"Century Gothic Std", arial, sans-serif ;
+    font-size: 12px;
+    FONT-WEIGHT: 800;
+
+}
+.right2 li{
+    list-style: none;
+    font-family: "Century Gothic Std", arial, sans-serif;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: lighter;
+
+}
+.inter li{
+    width: 126px;
+
+    height: 100%;
+}
+.inter {
+    display: flex;
+}
+.inter img{
+    margin-left: 160px;
+
+}
+.lang{
+    display: flex;
+}
+.lang img{
+    margin-left: 240px;
+    
+    
+}
